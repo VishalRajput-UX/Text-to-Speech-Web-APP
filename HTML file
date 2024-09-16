@@ -1,0 +1,25 @@
+ <!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="widht=device-widht, initial-scale=1.0">
+        <title> Text To Speech Converter -VishalRajput-UX </title>
+        <link rel="stylesheet" href="style.css">
+        
+    </head>
+    <body>
+    <div class="conatiner" >
+        <div class="conatiner hero">
+            <h1 class="txt"> Text To Speech </h1>
+            <span>Converter</span>
+            <textarea placeholder="Made by VishalRajput-UX..."></textarea>
+            
+                
+                <button class="btn">Listen</button> <div class="row">
+                    <select></select>
+           
+        </div>
+    </div> 
+        <script src="Untitled.js"></script>
+        
+    </body>
+</html>
